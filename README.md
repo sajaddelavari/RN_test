@@ -5,7 +5,10 @@
 # Test Project !
 
   - make animtion flatlist with fake data without any lib (just use RN component)
-  - api fake data (https://jsonplaceholder.typicode.com/users)
+  - api fake data 
+  - RestApi : (https://jsonplaceholder.typicode.com/users)
+   or
+  - graphql : (https://graphqlzero.almansi.me/#example-top)
 
 
 You can also:
