@@ -15,7 +15,7 @@
  `Clean code
 Pattern design
 Simple but professional
-You have only 48 hours to receive the link, after which no excuse is accepte`
+You have only 12 hours to receive the link, after which no excuse is accepte`
 
 You can also:
   - Import and save files from GitHub, Dropbox, Google Drive and One Drive
